@@ -1,7 +1,5 @@
 # Hi there, I'm Kharis! 👋
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" align="right" alt="coding animation">
-
 Welcome to my GitHub profile! I am currently participating in an independent study program focusing on Artificial Intelligence, where I'm honing my skills to become an AI Developer. 
 
 ## 🚀 About Me
@@ -18,4 +16,6 @@ Welcome to my GitHub profile! I am currently participating in an independent stu
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kharisajaa?igsh=cGNiejBpMnplOGg1)
 
 ## ⚡ Fun Fact
-When I'm not coding or training models on my laptop, you can probably find me pushing ranks in Mobile Legends!
+Machine intelligence is the last invention that humanity will ever need to make
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" align="right" alt="coding animation">
