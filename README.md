@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am currently participating in an independent stu
 * **Tools/Frameworks:** TensorFlow, Git, Figma, Laravel, MySQl
 
 ## 🌐 Connect with Me
-
+[![Web](https://img.shields.io/badge/Web-%231DA1F2.svg?logo=Web&logoColor=white)](https://kharisporto.framer.website/#about)
 [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kharisajaa?igsh=cGNiejBpMnplOGg1)
 
 ## ⚡ Fun Fact
