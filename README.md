@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am currently participating in an independent stu
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kharisajaa?igsh=cGNiejBpMnplOGg1)
 
 ## ⚡ Fun Fact
-Machine intelligence is the last invention that humanity will ever need to make
+Machine intelligence is the last invention that humanity will ever need to make!
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" align="left" alt="coding animation">
 
