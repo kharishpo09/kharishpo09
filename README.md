@@ -18,6 +18,5 @@ Welcome to my GitHub profile! I am currently participating in an independent stu
 ## ⚡ Fun Fact
 Machine intelligence is the last invention that humanity will ever need to make
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="coding animation">
-</p>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" align="left" alt="coding animation">
+
